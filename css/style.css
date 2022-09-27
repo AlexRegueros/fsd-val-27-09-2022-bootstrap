@@ -1,0 +1,37 @@
+
+
+.cont{
+    background-color: red;
+    height: 100vh; 
+    background-image:url(/fsd-val-27-09-2022-bootstrap/img/dark-blue-green-backdrop-with-circles-stars-abstract-design-in-gradient-style-with-bubbles-stars-design-for-your-commercials-vector.jpeg);
+}
+
+.prueba{
+    color: white;
+    
+    
+}
+
+.login{
+    padding-top:25vh;
+    color: white;
+}
+
+.p{
+    padding-left: 50vh;
+    padding-right: 50vh;
+}
+
+.cuadro{
+    background-color: azure;
+    height: 40vh;
+    margin-left: 40vh;
+    margin-right: 40vh;
+    border-radius: 1.5% 1.5% 0 0;
+    
+}
+
+.tabla{
+    
+   
+}
